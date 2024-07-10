@@ -16,8 +16,8 @@ Update Database Credentials:
   
 ### Step 2 : `shopDB.py` file
 - Once done with the credential updation, run the `shopDB.py` file.
-This file will create necessary tables to store production details, shifts, and more.
-`shoDB.py` calls the functions from the files in `ReportMailer/models` Folder where each file defines the necessary primary and foreign keys to establish relationships between tables.
+- This file will create necessary tables to store production details, shifts, and more.
+- `shoDB.py` calls the functions from the files in `ReportMailer/models` Folder where each file defines the necessary primary and foreign keys to establish relationships between tables.
 
 ### Step 3 : Populating the database
 
