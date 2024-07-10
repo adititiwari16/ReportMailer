@@ -1,0 +1,12 @@
+-- Sequence to add data:
+-- 1. variant
+-- 2. shop
+-- 3. model
+-- 4. part
+-- 5. equipment
+-- 6. batch
+-- 7. shift
+-- 8. shift_report
+-- 9. quality_punching
+-- 10. user
+-- 11. input_material
